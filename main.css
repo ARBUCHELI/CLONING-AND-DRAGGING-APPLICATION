@@ -1,0 +1,44 @@
+.copyMe {
+	display: inline-block;
+	padding: 15px;
+	border: 3px solid #6b5b95;
+	border-radius: 5px;
+	position: absolute; /*This allows to move the blocks around*/
+	max-width: 60px;
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 1.5em;
+	height: 40px;
+	cursor:pointer;
+	overflow:hidden;
+	color: #feb236;
+	background-color: #d64161;
+	font-weight: bold;
+}
+
+.newb {
+	color: red;
+}
+
+#garbage {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	left: 500px;
+	top: 300px;
+	padding: 15px;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 1.5em;
+}
+
+#all {
+	margin-left: 40px;
+}
+
+hr {
+	color: white;
+}
