@@ -11,6 +11,11 @@ The user can drag the cloned squares following the mouse and place them wherever
 
 The App, uses collision detection to drop the unwanted clones in a trash bin.
 
+<strong>INSTRUCTIONS</strong>
+
+1. Download and unzip the repository folder.
+2. Open the index.html file in Google Chrome to see the app.
+
 The following set of pictures shows how the app works.
 
 This is the first position when the user is ready to click on one of the squares.
@@ -28,6 +33,8 @@ The user can drag the cloned squares around the screen, to place them wherever t
 The last function is the ability to drop the unwanted squares in the trash bin (this process can be repeated over and over again).
 
 ![Fourth position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/Fourth%20position.jpg)
+
+Author: Andrés R. Bucheli.
 
 
 
