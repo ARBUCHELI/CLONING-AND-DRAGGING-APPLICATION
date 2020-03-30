@@ -21,6 +21,12 @@ Each time that the user clicks on one of the squares, a new square with a random
 
 ![Second position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/Second%20position.jpg)
 
+The user can drag the cloned squares around the screen, to place them wherever the user wants.
+
+![Third position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/third%20position.jpg)
+
+
+
 
 
 
