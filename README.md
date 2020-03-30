@@ -17,6 +17,11 @@ This is the first position when the user is ready to click on one of the squares
 
 ![First position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/First%20position.jpg)
 
+Each time that the user clicks on one of the squares, a new square with a random color is generated.  In the example the user clicked two times in the square with the label "One", two times in the square with the label "Two", two times in the square with the label "Three", two times in the square with the label "Four", and two times in the square with the label "Five".
+
+![Second position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/Second%20position.jpg)
+
+
 
 
 
