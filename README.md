@@ -13,6 +13,8 @@ The App, uses collision detection to drop the unwanted clones in a trash bin.
 
 The following set of pictures shows how the app works.
 
+This is the first position when the user is ready to click on one of the squares.
+
 ![First position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/First%20position.jpg)
 
 
