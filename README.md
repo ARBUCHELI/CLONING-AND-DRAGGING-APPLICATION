@@ -25,6 +25,10 @@ The user can drag the cloned squares around the screen, to place them wherever t
 
 ![Third position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/third%20position.jpg)
 
+The last function is the ability to drop the unwanted squares in the trash bin (this process can be repeated over and over again).
+
+![Fourth position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/Fourth%20position.jpg)
+
 
 
 
