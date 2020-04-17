@@ -34,7 +34,7 @@ The last function is the ability to drop the unwanted squares in the trash bin (
 
 ![Fourth position](https://github.com/anferebu/CLONING-AND-DRAGGING-APPLICATION/blob/master/Fourth%20position.jpg)
 
-Author: Andrés R. Bucheli.
+# Author: Andrés R. Bucheli.
 
 
 
